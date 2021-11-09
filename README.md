@@ -1,4 +1,4 @@
-# Sexual-health-api
+# Sexual Health Api
 
 ## Set Up
 
