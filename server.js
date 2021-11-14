@@ -154,7 +154,7 @@ app.locals.questions = [{
 },
 {
   id: 22,
-  question: "It's not fair to my partner if I first agree to do a certain sexual act but then decide mid-way through that I want to stop, so I should just go through with it.",
+  question: "It's not fair to my partner if I first agree to do a certain sexual act but then decide mid-way through that I want to stop.",
   answers: [ true, false ],
   correctAnswer: false,
   fact:  "Even if you give consent for a certain sexual activity, you always have the right to change your mind. There are many reasons why this might happen. Maybe you find it painful or uncomfortable, maybe it triggers negative memories for you, or maybe you just realized you're not into it. Regardless of your reason, you don’t have to continue something you don't want to do. You can withdraw (or take away) consent at any time. Consent is an ongoing process and checking in with each other is a great way to ensure that sexual activities continue to be consensual."
