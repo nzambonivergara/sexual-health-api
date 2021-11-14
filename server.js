@@ -22,7 +22,7 @@ app.locals.questions = [{
 },
 {
   id: 3,
-  question: "Emergency contraception (“the morning after pill”) and medication abortion (“the abortion pill”) are the same thing.",
+  question: "Emergency contraception-the morning after pill-and medication abortion-the abortion pill-are the same thing.",
   answers: [true, false],
   correctAnswer: false,
   fact: "Emergency contraception will not impact an existing pregnancy and has no impact if fertilization has already occurred; it merely prevents pregnancy from occurring. Medication abortion terminates an already established pregnancy."
@@ -50,20 +50,20 @@ app.locals.questions = [{
 },
 {
   id: 7,
-  question: "When someone's gender identity aligns with their sex assigned at birth, they are cisgender. When someone's gender identity doesn't align with their sex assigned at birth, they might identify as transgender, gender non-binary, or a different identity that feels right for them.",
+  question: "When someone's gender identity aligns with their sex assigned at birth, they are cisgender.",
   answers: [ true, false ],
   correctAnswer: true,
-  fact: "Gender identity is different than sex. In that same way, gender expression is also different. Gender identity pertains to what gender the person identifies, whereas gender expression refers to how someone decides to express their gender."
+  fact: "Gender identity is different than sex. In that same way, gender expression is also different. Gender identity pertains to what gender the person identifies, whereas gender expression refers to how someone decides to express their gender. When someone's gender identity doesn't align with their sex assigned at birth, they might identify as transgender, gender non-binary, or a different identity that feels right for them."
 },
 {
   id: 8,
   question: "All emergency contraceptives are 100% effective up to five days after having unprotected sex.",
   answers: [ true, false ],
   correctAnswer: false,
-  fact: "PLAN B/NEXT CHOICE is available over the counter or online without a prescription. It can work up to 5 days after unprotected sex, but its effectiveness decreases each day."
+  fact: "PLAN B is available over the counter or online without a prescription. It can work up to 5 days after unprotected sex, but its effectiveness decreases each day."
 },{
   id: 9,
-  question: "The Copper IUD (Paragard) is an effective emergency contraception method.",
+  question: "The Copper IUD-Paragard-is an effective emergency contraception method.",
   answers: [ true, false ],
   correctAnswer: true,
   fact: "COPPER IUD is the most effective EC there is. Have a provider insert it within 5 days of having unprotected sex and lower your chance of pregnancy by 99.9%."
@@ -91,7 +91,7 @@ app.locals.questions = [{
 },
 {
   id: 13,
-  question: "Will my partner feel the IUD or will the IUD hurt my partner during penetration sex?",
+  question: "My partner will feel the IUD or it will hurt my partner during penetration sex.",
   answers: [ true, false ],
   correctAnswer: false,
   fact:  "It is unlikely that they will be able to feel your IUD. BUT, if they do, they will definitely not get hurt during penetration sex. The IUD is made out of soft plastic and it is very flexible."
